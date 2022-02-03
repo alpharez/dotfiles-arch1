@@ -23,7 +23,7 @@
  .`                                 `/
 </pre>
 
-ln -nfs $HOME/.dotfile $HOME/Projects/dotfiles/.dotfile
+cp -r ~/.dotfile ~/Projects/dotfiles/.dotfile
 
 .atom
 .bashrc
