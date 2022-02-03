@@ -1,0 +1,5 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "d52ac030-5244-4aca-98e4-fb9db44055ab"
